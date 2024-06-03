@@ -1,6 +1,6 @@
 ### SvelteKit TypeScript Static Boilerplate
 
-Minimalistic boilerplate for SvelteKit projects in TypeScript, optimized for SSG.
+Boilerplate for SvelteKit projects in TypeScript, optimized for SSG
 
 #### Prerequisites
 
@@ -79,4 +79,4 @@ Minimalistic boilerplate for SvelteKit projects in TypeScript, optimized for SSG
 
 #### License
 
-This project is under the MIT License. See [LICENSE](LICENSE) for details.
+[MIT](LICENSE)
