@@ -15,5 +15,5 @@
 
 	"tailwindCSS.experimental.classRegex": [["clsx\\(([^)]*)\\)", "(?:'|\"|`)([^']*)(?:'|\"|`)"]],
 
-	"cSpell.words": ["equilpres", "precompress", "tailwindcss"]
+	"cSpell.words": ["equilpres", "precompress", "tailwindcss", "tseslint"]
 }

@@ -4,8 +4,8 @@ Boilerplate for SvelteKit projects in TypeScript, optimized for SSG
 
 #### Prerequisites
 
-- [Node.js](https://nodejs.org/) (^18.18)
-- [pnpm](https://pnpm.io/) (^8.15)
+- [Node.js](https://nodejs.org/) (^20.15)
+- [pnpm](https://pnpm.io/) (^9.4)
 
 #### Getting Started
 
